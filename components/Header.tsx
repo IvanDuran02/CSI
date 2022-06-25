@@ -9,7 +9,7 @@ function Header() {
       <div className="flex space-x-5 items-center">
         <Link href="/">
           <div className="cursor-pointer hover:scale-105 transition-transform ease-in-out duration-200">
-            <h1 className="font-serif font-bold text-xl text-zinc-700 px-5 border-x-2">Cast Stone International</h1>
+            <h1 className="font-serif font-bold text-xl text-zinc-700 px-5 border-x-2">Cast Stone</h1>
           </div>
         </Link>
         <div className="hidden md:inline-flex items-center space-x-1 cursor-pointer text-xl">
